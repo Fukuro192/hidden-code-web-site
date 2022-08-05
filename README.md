@@ -27,3 +27,7 @@ You might need administrator's permission, so if you get an error, and if you're
 sudo !!
 ```
 for running the previous command on sudo permission.
+
+# access the site
+
+go to `localhost:3000` after you run the server.
