@@ -9,7 +9,7 @@ learn more [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Link
 
 After 5 seconds, you will be redirected to a [youtube video with a guy that can't stop playing code while there's an earthquaque](https://www.youtube.com/watch?v=L1GeSlydcrM).
 
-# run
+## run
 
 You will need python and pip.
 
@@ -28,6 +28,6 @@ sudo !!
 ```
 for running the previous command on sudo permission.
 
-# access the site
+## access the site
 
 go to `localhost:3000` after you run the server.
