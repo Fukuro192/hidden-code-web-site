@@ -7,7 +7,7 @@ That is only if you use a firefox browser or a fork of it. If you use chrome, yo
 
 learn more [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Link).
 
-After 5 seconds, you will be redirected to a [youtube video with a guy that can't stop playing code while there's an earthquaque](https://www.youtube.com/watch?v=L1GeSlydcrM).
+After 5 seconds, you will be redirected to a [youtube video with a guy that can't stop playing CoD while there's an earthquaque](https://www.youtube.com/watch?v=L1GeSlydcrM).
 
 ## run
 
